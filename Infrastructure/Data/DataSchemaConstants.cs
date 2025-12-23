@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
+    /// <summary>
+    /// 常量
+    /// </summary>
     internal class DataSchemaConstants
     {
         public const int DefaultQuestionTitleLength = 200;
